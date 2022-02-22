@@ -20,7 +20,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=Hogrii&title=PullRequest)](https://github.com/ryo-ma/github-profile-trophy)
 [![trophy](https://github-profile-trophy.vercel.app/?username=Hogrii&title=Commit)](https://github.com/ryo-ma/github-profile-trophy)
 [![trophy](https://github-profile-trophy.vercel.app/?username=Hogrii&title=Repositories)](https://github.com/ryo-ma/github-profile-trophy)
-[![trophy](https://github-profile-trophy.vercel.app/?username=Hogrii&theme=dracula&no-bg=true&rank=S,AAA,AA,A,B,C&column=3&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Hogrii&theme=dracula&no-bg=true&rank=S,AAA,AA,A,B,C)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
 - 👀 I’m interested in ...
