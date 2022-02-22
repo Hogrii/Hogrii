@@ -1,6 +1,7 @@
 <a href="https://github.com/Hogrii"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHogrii%2FHogrii&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 
-## 👋 Hi, I’m @Hogrii : Java Programmer ༼ つ ◕_◕ ༽つ
+## 👋 Hello, My World
+## ༼ つ ◕_◕ ༽つ I’m @Hogrii : Java Programmer
 
 ## Stack
 [![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=fff)](https://www.oracle.com/kr/java/)
