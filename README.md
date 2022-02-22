@@ -14,6 +14,9 @@
 [![Tomcat](https://img.shields.io/badge/Tomcat-DDAE36?style=flat-square&logo=Apache-Tomcat&logoColor=fff)](https://tomcat.apache.org/)
 [![AmazonAWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon-AWS&logoColor=fff)](https://aws.amazon.com/ko/)
 
+#### ㅎㅎ
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hogrii)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
