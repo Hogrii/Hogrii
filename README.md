@@ -17,6 +17,7 @@
 #### 👀 My Github stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hogrii)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hogrii&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Hogrii"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hogrii&hide_border=true&layout=compact"/></a>
 
 <!--
 - 👀 I’m interested in ...
