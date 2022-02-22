@@ -17,6 +17,9 @@
 #### 👀 My Github stats
 [![trophy](https://github-profile-trophy.vercel.app/?username=Hogrii&theme=onedark&no-bg=true&rank=S,AAA,AA,A,B,C)](https://github.com/ryo-ma/github-profile-trophy)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hogrii)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github-readme-stats.vercel.app/api?username=Hogrii">
+  <img src="https://github-readme-stats.vercel.app/api?username=Hogrii&show_icons=true&count_private=true&hide_border=true" align="right" style="width: 50%"/>
+</a>
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hogrii&layout=compact)](https://github.com/anuraghazra/github-readme-stats)-->
 
 <!--
