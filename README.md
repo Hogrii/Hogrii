@@ -21,7 +21,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Hogrii&theme=onedark&no-bg=true&rank=S,AAA,AA,A,B,C"/>
 </a>
 <a href="https://github-readme-stats.vercel.app/api?username=Hogrii">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hogrii&show_icons=true&count_private=true&hide_border=true" align="left" style="width:50%;padding-right:0px;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Hogrii&show_icons=true&count_private=true&hide_border=true" align="left" style="width:50%;padding-right:0px;"/> 
 </a>
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hogrii&layout=compact)](https://github.com/anuraghazra/github-readme-stats)-->
 
