@@ -24,6 +24,9 @@
 <a href="https://github-readme-stats.vercel.app/api?username=Hogrii">
   <img src="https://github-readme-stats.vercel.app/api?username=Hogrii&show_icons=true&count_private=true&hide_border=true" align="left" style="width:50%;padding-right:0px;"/> 
 </a>  
+<a href="https://github-readme-stats.verce1.app/api?username=Hogrii">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hogrii&layout=compact" style="width:50%;padding: 0px 0px 0px 0px;"/>
+</a>
 
 #### 🌱 Efforts
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hosboy93)](https://solved.ac/hosboy93)
