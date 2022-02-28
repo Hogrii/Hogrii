@@ -22,10 +22,10 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Hogrii&theme=onedark&no-bg=true&rank=S,AAA,AA,A"/>
 </a>
 <a href="https://github-readme-stats.vercel.app/api?username=Hogrii">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hogrii&show_icons=true&count_private=true&hide_border=true" align="left" style="width:50%;padding:0px 0px 0px 0px;"/> 
+  <img src="https://github-readme-stats.vercel.app/api?username=Hogrii&show_icons=true&count_private=true&hide_border=true" align="left" style="width:45%;padding:0px 0px 0px 0px;"/> 
 </a>  
 <a href="https://github-readme-stats.verce1.app/api?username=Hogrii">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hogrii&layout=compact" style="width:50%;padding: 0px 0px 0px 0px;"/>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hogrii&layout=compact" style="width:45%;padding: 0px 0px 0px 0px;"/>
 </a>
 
 #### 🌱 Efforts
