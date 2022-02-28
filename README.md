@@ -5,10 +5,10 @@
 <a href="https://www.notion.so/Dashboard-69d57ffcbf214da5956812602d9c40c9"><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/></a>
 
 <a href="https://github-readme-stats.vercel.app/api?username=Hogrii">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hogrii&show_icons=true&count_private=true&hide_border=true" align="right" style="width: 50%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Hogrii&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 50%"/>
 </a>
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Hogrii">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hogrii&hide_border=true&layout=compact" align="right" style="width: 50%;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hogrii&hide_border=true&layout=compact" align="left" style="width: 50%;"/>
 </a>
 
 #### 📫 Tools
