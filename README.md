@@ -15,7 +15,7 @@
 [![Tomcat](https://img.shields.io/badge/Tomcat-DDAE36?style=flat-square&logo=Apache-Tomcat&logoColor=fff)](https://tomcat.apache.org/)
 [![AmazonAWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon-AWS&logoColor=fff)](https://aws.amazon.com/ko/)
 
-<hr>
+<hr></hr>
 #### 👀 My Github stats
 <!--[![trophy](https://github-profile-trophy.vercel.app/?username=Hogrii&theme=onedark&no-bg=true&rank=S,AAA,AA,A,B,C)](https://github.com/ryo-ma/github-profile-trophy)-->
 <a href="https://github-profile-trophy.vercel.app/?username=Hogrii">
