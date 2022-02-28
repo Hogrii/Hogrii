@@ -4,7 +4,6 @@
 <a href="https://discord.gg/yNQgyJpr"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=Discord&logoColor=white"/></a>
 <a href="https://www.notion.so/Dashboard-69d57ffcbf214da5956812602d9c40c9"><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/></a>
 
-***
 #### 📫 Tools
 [![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=fff)](https://www.oracle.com/kr/java/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-FF9E0F?style=flat-square&logo=JavaScript&logoColor=fff)](https://developer.mozilla.org/ko/)
@@ -16,7 +15,6 @@
 [![Tomcat](https://img.shields.io/badge/Tomcat-DDAE36?style=flat-square&logo=Apache-Tomcat&logoColor=fff)](https://tomcat.apache.org/)
 [![AmazonAWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon-AWS&logoColor=fff)](https://aws.amazon.com/ko/)
 
-***
 #### 👀 My Github stats
 <!--[![trophy](https://github-profile-trophy.vercel.app/?username=Hogrii&theme=onedark&no-bg=true&rank=S,AAA,AA,A,B,C)](https://github.com/ryo-ma/github-profile-trophy)-->
 <a href="https://github-profile-trophy.vercel.app/?username=Hogrii">
@@ -26,8 +24,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Hogrii&show_icons=true&count_private=true&hide_border=true" align="left" style="width:50%;padding-right:0px;"/> 
 </a>  
 
-***
-#### 🌱 Efforts
+## 🌱 Efforts
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hosboy93)](https://solved.ac/hosboy93)
 
 <!--
