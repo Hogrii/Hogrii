@@ -25,6 +25,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Hogrii&show_icons=true&count_private=true&hide_border=true" align="left" style="width:50%;padding-right:0px;"/> 
 </a>  
 
+***
+#### 🌱 Efforts
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hosboy93)](https://solved.ac/hosboy93)
 
 <!--
 - 👀 I’m interested in ...
