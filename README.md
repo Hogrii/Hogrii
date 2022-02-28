@@ -26,7 +26,7 @@
 </a>
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Hogrii">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hogrii&hide_border=true&layout=compact" align="left" style="width: 50%;"/>
-</a></br></br></br></br></br></br>
+</a></br></br></br></br></br></br></br></br></br></br></br></br>
 
 
 #### 🌱 Efforts
