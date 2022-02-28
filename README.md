@@ -15,6 +15,9 @@
 [![Tomcat](https://img.shields.io/badge/Tomcat-DDAE36?style=flat-square&logo=Apache-Tomcat&logoColor=fff)](https://tomcat.apache.org/)
 [![AmazonAWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon-AWS&logoColor=fff)](https://aws.amazon.com/ko/)
 
+#### 🌱 Efforts
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hosboy93)](https://solved.ac/hosboy93)
+
 #### 👀 My Github stats
 <!--[![trophy](https://github-profile-trophy.vercel.app/?username=Hogrii&theme=onedark&no-bg=true&rank=S,AAA,AA,A,B,C)](https://github.com/ryo-ma/github-profile-trophy)-->
 <a href="https://github-profile-trophy.vercel.app/?username=Hogrii">
@@ -24,8 +27,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Hogrii&show_icons=true&count_private=true&hide_border=true" align="left" style="width:50%;padding-right:0px;"/> 
 </a>  
 
-## 🌱 Efforts
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hosboy93)](https://solved.ac/hosboy93)
+
 
 <!--
 - 👀 I’m interested in ...
