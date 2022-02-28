@@ -4,12 +4,7 @@
 <a href="https://discord.gg/yNQgyJpr"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=Discord&logoColor=white"/></a>
 <a href="https://www.notion.so/Dashboard-69d57ffcbf214da5956812602d9c40c9"><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/></a>
 
-<a href="https://github-readme-stats.vercel.app/api?username=Hogrii">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hogrii&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 50%"/>
-</a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Hogrii">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hogrii&hide_border=true&layout=compact" align="left" style="width: 50%;"/>
-</a>
+
 
 #### 📫 Tools
 [![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=fff)](https://www.oracle.com/kr/java/)
@@ -27,8 +22,12 @@
 #### 👀 My Github stats
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Hogrii&theme=onedark&no-bg=true&rank=S,AAA,AA,A,B,C&column=3&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-<img src="https://github-readme-stats.vercel.app/api?username=Hogrii&show_icons=true&count_private=true&hide_border=true" style="width:50%;"/> 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hogrii&layout=compact" style="width:50%;"/>
+<a href="https://github-readme-stats.vercel.app/api?username=Hogrii">
+  <img src="https://github-readme-stats.vercel.app/api?username=Hogrii&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 50%"/>
+</a>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Hogrii">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hogrii&hide_border=true&layout=compact" align="left" style="width: 50%;"/>
+</a>
 
 
 #### 🌱 Efforts
