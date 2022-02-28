@@ -19,9 +19,9 @@
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hosboy93)](https://solved.ac/hosboy93)
 
 #### 👀 My Github stats
-<!--[![trophy](https://github-profile-trophy.vercel.app/?username=Hogrii&theme=onedark&no-bg=true&rank=S,AAA,AA,A,B,C)](https://github.com/ryo-ma/github-profile-trophy)-->
+<!--[![trophy](https://github-profile-trophy.vercel.app/?username=Hogrii&theme=onedark&no-bg=true&rank=S,AAA,AA,A)](https://github.com/ryo-ma/github-profile-trophy)-->
 <a href="https://github-profile-trophy.vercel.app/?username=Hogrii">
-  <img src="https://github-profile-trophy.vercel.app/?username=Hogrii&theme=onedark&no-bg=true&rank=S,AAA,AA,A,B,C"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Hogrii&theme=onedark&no-bg=true&rank=S,AAA,AA,A"/>
 </a>
 <a href="https://github-readme-stats.vercel.app/api?username=Hogrii">
   <img src="https://github-readme-stats.vercel.app/api?username=Hogrii&show_icons=true&count_private=true&hide_border=true" align="left" style="width:50%;padding-right:0px;"/> 
