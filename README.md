@@ -19,7 +19,7 @@
 
 
 
-#### 👀 My Github stats 
+#### 👀 My Github stats
 [![trophy](https://github-profile-trophy.vercel.app/?username=Hogrii&theme=onedark&no-bg=true&rank=S,AAA,AA,A,B,C&column=3&row=1)](https://github.com/ryo-ma/github-profile-trophy)</br>
 <a href="https://github-readme-stats.vercel.app/api?username=Hogrii">
   <img src="https://github-readme-stats.vercel.app/api?username=Hogrii&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 45%; padding:0px;"/>
