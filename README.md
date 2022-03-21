@@ -2,7 +2,7 @@
 <a href="https://github.com/Hogrii"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHogrii%2FHogrii&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 <a href="https://www.instagram.com/jinjoojoa/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://discord.gg/yNQgyJpr"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=Discord&logoColor=white"/></a>
-<a href="https://www.notion.so/Dashboard-69d57ffcbf214da5956812602d9c40c9"><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/></a>
+<a href="https://magnificent-result-7d5.notion.site/Dashboard-69d57ffcbf214da5956812602d9c40c9"><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/></a>
 
 
 
