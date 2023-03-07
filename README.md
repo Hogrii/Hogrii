@@ -24,10 +24,6 @@
 <a href="https://github-readme-stats.vercel.app/api?username=Hogrii">
   <img src="https://github-readme-stats.vercel.app/api?username=Hogrii&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 45%; padding:0px;"/>
 </a>  
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Hogrii">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hogrii&hide_border=true&layout=compact" align="left" style="width: 45%; padding:0px;"/>
-</a></br></br></br></br></br></br></br>  
-
 
 
    
