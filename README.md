@@ -8,10 +8,10 @@
 #### 📫 Tools
 [![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=fff)](https://www.oracle.com/kr/java/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-FF9E0F?style=flat-square&logo=JavaScript&logoColor=fff)](https://developer.mozilla.org/ko/)
-[![intellijidea](https://img.shields.io/badge/intellij-007396?style=flat-square&logo=intellijidea&logoColor=fff)](https://www.oracle.com/kr/java/)
 </br>
 [![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=fff)](https://code.visualstudio.com/)
 [![EclipseIDE](https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=EclipseIDE&logoColor=fff)](https://www.eclipse.org/)
+[![intellijidea](https://img.shields.io/badge/intellij-007396?style=flat-square&logo=intellijidea&logoColor=fff)](https://www.jetbrains.com/ko-kr/idea/download/#section=windows)
 </br>
 [![ORACLE](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=fff)](https://www.oracle.com/kr/index.html)
 </br>
