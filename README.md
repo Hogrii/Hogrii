@@ -30,6 +30,7 @@
 [![github](https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=fff)](https://github.com/)
 ![linux](https://img.shields.io/badge/linux-FCC624?style=flat-square&logo=linux&logoColor=fff)
 [![ubuntu](https://img.shields.io/badge/ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=fff)](https://ubuntu.com/)
+[![nodedotjs](https://img.shields.io/badge/nodedotjs-339933?style=flat-square&logo=nodedotjs&logoColor=fff)](https://nodejs.org/ko)
 
 
 #### 👀 My Github stats
