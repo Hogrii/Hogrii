@@ -19,6 +19,7 @@
 </br>
 [![ORACLE](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=fff)](https://www.oracle.com/kr/index.html)
 [![mongodb](https://img.shields.io/badge/mongodb-47A248?style=flat-square&logo=mongodb&logoColor=fff)](https://www.mongodb.com/)
+[![mariadb](https://img.shields.io/badge/mariadb-003545?style=flat-square&logo=mariadb&logoColor=fff)](https://mariadb.com/)
 </br>
 [![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=fff)](https://spring.io/)
 [![springboot](https://img.shields.io/badge/springboot-6DB33F?style=flat-square&logo=springboot&logoColor=fff)](https://spring.io/)
