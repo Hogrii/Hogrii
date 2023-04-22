@@ -4,10 +4,11 @@
 <a href="https://discord.gg/yNQgyJpr"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=Discord&logoColor=white"/></a>
 <a href="https://magnificent-result-7d5.notion.site/Dashboard-69d57ffcbf214da5956812602d9c40c9"><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/></a>
 
-
+intellijidea
 #### 📫 Tools
 [![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=fff)](https://www.oracle.com/kr/java/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-FF9E0F?style=flat-square&logo=JavaScript&logoColor=fff)](https://developer.mozilla.org/ko/)
+[![intellijidea](https://img.shields.io/badge/intellijidea-007396?style=flat-square&logo=intellij&logoColor=fff)](https://www.oracle.com/kr/java/)
 </br>
 [![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=fff)](https://code.visualstudio.com/)
 [![EclipseIDE](https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=EclipseIDE&logoColor=fff)](https://www.eclipse.org/)
