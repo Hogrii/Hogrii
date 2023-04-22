@@ -10,6 +10,7 @@
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=fff)](https://developer.mozilla.org/ko/)
 [![html5](https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=fff)](https://developer.mozilla.org/ko/)
 [![css3](https://img.shields.io/badge/css3-1572B6?style=flat-square&logo=css3&logoColor=fff)](https://developer.mozilla.org/ko/)
+[![react](https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=fff)](https://developer.mozilla.org/ko/)
 [![react](https://img.shields.io/badge/react-61dbfb?style=flat-square&logo=react&logoColor=fff)](https://ko.legacy.reactjs.org/)
 </br>
 [![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=fff)](https://code.visualstudio.com/)
