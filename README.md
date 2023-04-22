@@ -8,6 +8,7 @@
 #### 📫 Tools
 [![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=fff)](https://www.oracle.com/kr/java/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=fff)](https://developer.mozilla.org/ko/)
+[![jquery](https://img.shields.io/badge/jquery-0769AD?style=flat-square&logo=jquery&logoColor=fff)](https://jquery.com/)
 [![html5](https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=fff)](https://developer.mozilla.org/ko/)
 [![css3](https://img.shields.io/badge/css3-1572B6?style=flat-square&logo=css3&logoColor=fff)](https://developer.mozilla.org/ko/)
 [![react](https://img.shields.io/badge/react-61dbfb?style=flat-square&logo=react&logoColor=fff)](https://ko.legacy.reactjs.org/)
@@ -25,7 +26,8 @@
 [![Tomcat](https://img.shields.io/badge/Tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=fff)](https://tomcat.apache.org/)
 [![AmazonAWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon-AWS&logoColor=fff)](https://aws.amazon.com/ko/)
 [![GIT](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=fff)](https://git-scm.com/)
-[![github](https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=fff)](https://git-scm.com/)
+[![github](https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=fff)](https://github.com/)
+[![linux](https://img.shields.io/badge/linux-FCC624?style=flat-square&logo=linux&logoColor=fff)]
 [![ubuntu](https://img.shields.io/badge/ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=fff)](https://ubuntu.com/)
 
 
