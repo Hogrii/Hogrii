@@ -3,7 +3,7 @@
 <a href="https://www.instagram.com/jinjoojoa/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://discord.gg/yNQgyJpr"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=Discord&logoColor=white"/></a>
 <a href="https://magnificent-result-7d5.notion.site/Dashboard-69d57ffcbf214da5956812602d9c40c9"><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"/></a>
-<a href=""><img src="https://img.shields.io/badge/slack-4A154B?style=flat&logo=Slack&logoColor=white"/></a>
+<a href="https://github.com/Hogrii/Hogrii/blob/main/README.md"><img src="https://img.shields.io/badge/slack-4A154B?style=flat&logo=Slack&logoColor=white"/></a>
 
 
 #### 📫 Tools
