@@ -17,6 +17,7 @@
 [![intellijidea](https://img.shields.io/badge/intellij-037df7?style=flat-square&logo=intellijidea&logoColor=fff)](https://www.jetbrains.com/ko-kr/idea/download/#section=windows)
 </br>
 [![ORACLE](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=fff)](https://www.oracle.com/kr/index.html)
+[![mongodb](https://img.shields.io/badge/mongodb-F80000?style=flat-square&logo=mongodb&logoColor=fff)](https://www.mongodb.com/)
 </br>
 [![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=fff)](https://spring.io/)
 [![springboot](https://img.shields.io/badge/springboot-6DB33F?style=flat-square&logo=springboot&logoColor=fff)](https://spring.io/)
@@ -24,6 +25,7 @@
 [![Tomcat](https://img.shields.io/badge/Tomcat-DDAE36?style=flat-square&logo=Apache-Tomcat&logoColor=fff)](https://tomcat.apache.org/)
 [![AmazonAWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon-AWS&logoColor=fff)](https://aws.amazon.com/ko/)
 [![GIT](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=fff)](https://git-scm.com/)
+[![ubuntu](https://img.shields.io/badge/ubuntu-F05032?style=flat-square&logo=ubuntu&logoColor=fff)](https://ubuntu.com/)
 
 
 #### 👀 My Github stats
