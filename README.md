@@ -23,6 +23,7 @@
 </br>
 [![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=fff)](https://spring.io/)
 [![springboot](https://img.shields.io/badge/springboot-6DB33F?style=flat-square&logo=springboot&logoColor=fff)](https://spring.io/)
+[![nodejs](https://img.shields.io/badge/node.js-339933?style=flat-square&logo=nodedotjs&logoColor=fff)](https://nodejs.org/ko)
 </br>
 [![Tomcat](https://img.shields.io/badge/Tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=fff)](https://tomcat.apache.org/)
 [![AmazonAWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon-AWS&logoColor=fff)](https://aws.amazon.com/ko/)
@@ -30,7 +31,6 @@
 [![github](https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=fff)](https://github.com/)
 ![linux](https://img.shields.io/badge/linux-FCC624?style=flat-square&logo=linux&logoColor=fff)
 [![ubuntu](https://img.shields.io/badge/ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=fff)](https://ubuntu.com/)
-[![nodejs](https://img.shields.io/badge/node.js-339933?style=flat-square&logo=nodedotjs&logoColor=fff)](https://nodejs.org/ko)
 
 
 #### 👀 My Github stats
