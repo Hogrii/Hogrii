@@ -7,7 +7,7 @@
 
 
 #### 📫 Tools
-[![Ja](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=fff)](https://www.oracle.com/kr/java/)
+[![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=fff)](https://www.oracle.com/kr/java/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-FF9E0F?style=flat-square&logo=JavaScript&logoColor=fff)](https://developer.mozilla.org/ko/)
 [![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=fff)](https://spring.io/)
 [![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=fff)](https://code.visualstudio.com/)
