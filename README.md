@@ -27,7 +27,7 @@
 [![AmazonAWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon-AWS&logoColor=fff)](https://aws.amazon.com/ko/)
 [![GIT](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=fff)](https://git-scm.com/)
 [![github](https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=fff)](https://github.com/)
-[![linux](https://img.shields.io/badge/linux-FCC624?style=flat-square&logo=linux&logoColor=fff)]
+![linux](https://img.shields.io/badge/linux-FCC624?style=flat-square&logo=linux&logoColor=fff)
 [![ubuntu](https://img.shields.io/badge/ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=fff)](https://ubuntu.com/)
 
 
