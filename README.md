@@ -8,8 +8,8 @@
 #### 📫 Tools
 [![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=fff)](https://www.oracle.com/kr/java/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-FF9E0F?style=flat-square&logo=JavaScript&logoColor=fff)](https://developer.mozilla.org/ko/)
-[![html5](https://img.shields.io/badge/html5-FF9E0F?style=flat-square&logo=html5&logoColor=fff)](https://developer.mozilla.org/ko/)
-[![css3](https://img.shields.io/badge/css3-FF9E0F?style=flat-square&logo=css3&logoColor=fff)](https://developer.mozilla.org/ko/)
+[![html5](https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=fff)](https://developer.mozilla.org/ko/)
+[![css3](https://img.shields.io/badge/css3-1572B6?style=flat-square&logo=css3&logoColor=fff)](https://developer.mozilla.org/ko/)
 [![react](https://img.shields.io/badge/react-61dbfb?style=flat-square&logo=react&logoColor=fff)](https://ko.legacy.reactjs.org/)
 </br>
 [![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=fff)](https://code.visualstudio.com/)
