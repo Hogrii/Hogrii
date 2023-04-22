@@ -7,7 +7,7 @@
 intellijidea
 #### 📫 Tools
 [![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=fff)](https://www.oracle.com/kr/java/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-FF9E0F?style=flat-square&logo=JavaScript&logoColor=fff)](https://developer.mozilla.org/ko/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-FF9E0F?style=flat-square&logoColor=fff)](https://developer.mozilla.org/ko/)
 [![intellijidea](https://img.shields.io/badge/intellijidea-007396?style=flat-square&logo=intellij&logoColor=fff)](https://www.oracle.com/kr/java/)
 </br>
 [![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=fff)](https://code.visualstudio.com/)
