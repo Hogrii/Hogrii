@@ -22,7 +22,7 @@
 [![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=fff)](https://spring.io/)
 [![springboot](https://img.shields.io/badge/springboot-6DB33F?style=flat-square&logo=springboot&logoColor=fff)](https://spring.io/)
 </br>
-[![apachetomcat](https://img.shields.io/badge/Tomcat-F8DC75?style=flat-square&logo=Apache-apachetomcat&logoColor=fff)](https://tomcat.apache.org/)
+[![Tomcat](https://img.shields.io/badge/Tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=fff)](https://tomcat.apache.org/)
 [![AmazonAWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon-AWS&logoColor=fff)](https://aws.amazon.com/ko/)
 [![GIT](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=fff)](https://git-scm.com/)
 [![github](https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=fff)](https://git-scm.com/)
